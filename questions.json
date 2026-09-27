@@ -1,0 +1,167 @@
+[
+ {
+  "q": "In what year was Volusia County created?",
+  "o": [
+   "1821",
+   "1845",
+   "1854",
+   "1887"
+  ],
+  "a": 2,
+  "f": "The Florida Legislature carved Volusia out of Orange County on December 29, 1854."
+ },
+ {
+  "q": "Which city has been the Volusia County seat since 1887?",
+  "o": [
+   "Daytona Beach",
+   "DeLand",
+   "Enterprise",
+   "New Smyrna Beach"
+  ],
+  "a": 1,
+  "f": "Enterprise was the first county seat. DeLand took over in 1887 and still holds it."
+ },
+ {
+  "q": "Who founded the 1768 colony of New Smyrna?",
+  "o": [
+   "Henry Flagler",
+   "Andrew Turnbull",
+   "Mathias Day",
+   "Ponce de Leon"
+  ],
+  "a": 1,
+  "f": "Dr. Andrew Turnbull named it for Smyrna, the Aegean city where his wife was born."
+ },
+ {
+  "q": "Most of the 1,400+ New Smyrna colonists came from which island?",
+  "o": [
+   "Minorca",
+   "Sicily",
+   "Cuba",
+   "Corsica"
+  ],
+  "a": 0,
+  "f": "Survivors marched to St. Augustine in 1777 and became Florida's Minorcan community."
+ },
+ {
+  "q": "How tall is the Ponce de Leon Inlet Lighthouse, Florida's tallest?",
+  "o": [
+   "125 feet",
+   "150 feet",
+   "175 feet",
+   "200 feet"
+  ],
+  "a": 2,
+  "f": "First lit in 1887, it stands 175 feet tall at the south end of Ponce Inlet."
+ },
+ {
+  "q": "In 1904 Mary McLeod Bethune opened her Daytona school with how much money?",
+  "o": [
+   "$1.50",
+   "$15",
+   "$150",
+   "$1,500"
+  ],
+  "a": 0,
+  "f": "She started with $1.50 and five girls. The school grew into Bethune-Cookman University."
+ },
+ {
+  "q": "NASCAR was organized in 1947 at which Daytona Beach hotel?",
+  "o": [
+   "The Casements",
+   "Streamline Hotel",
+   "Hotel Ormond",
+   "Plaza Resort"
+  ],
+  "a": 1,
+  "f": "Bill France Sr. hosted the meetings in the rooftop Ebony Club starting December 14, 1947."
+ },
+ {
+  "q": "How fast did Sir Malcolm Campbell drive Blue Bird on Daytona sand in 1935?",
+  "o": [
+   "176 mph",
+   "226 mph",
+   "276 mph",
+   "326 mph"
+  ],
+  "a": 2,
+  "f": "He hit 276.82 mph on March 7, 1935. Record runs soon moved to the Bonneville Salt Flats."
+ },
+ {
+  "q": "Bike Week began in 1937 with which race?",
+  "o": [
+   "Daytona 200",
+   "Daytona 500",
+   "Firecracker 400",
+   "Rolex 24"
+  ],
+  "a": 0,
+  "f": "Ed Kretz won the first Daytona 200 on a beach-and-road course riding an Indian."
+ },
+ {
+  "q": "What year did Biketoberfest start?",
+  "o": [
+   "1961",
+   "1977",
+   "1991",
+   "2003"
+  ],
+  "a": 2,
+  "f": "The Daytona Beach visitors bureau created the October rally in 1991."
+ },
+ {
+  "q": "Where did Jackie Robinson play his first integrated spring game in 1946?",
+  "o": [
+   "DeLand",
+   "City Island, Daytona",
+   "Sanford",
+   "Ocala"
+  ],
+  "a": 1,
+  "f": "The City Island ballpark welcomed him on March 17, 1946. It is now Jackie Robinson Ballpark."
+ },
+ {
+  "q": "Daytona Beach is named after which founder?",
+  "o": [
+   "Mathias Day",
+   "Daniel Tona",
+   "Henry DeLand",
+   "John Stetson"
+  ],
+  "a": 0,
+  "f": "Mathias Day of Ohio bought the land in 1870, and the town took his name."
+ },
+ {
+  "q": "Which nearby city calls itself the Birthplace of Speed?",
+  "o": [
+   "Port Orange",
+   "Ormond Beach",
+   "Edgewater",
+   "Holly Hill"
+  ],
+  "a": 1,
+  "f": "Early automobile speed trials ran on the hard-packed Ormond-Daytona beach from 1903."
+ },
+ {
+  "q": "In what year was the first Daytona 500 held?",
+  "o": [
+   "1949",
+   "1959",
+   "1969",
+   "1979"
+  ],
+  "a": 1,
+  "f": "Lee Petty won the first Daytona 500 in 1959, the year the Speedway opened."
+ },
+ {
+  "q": "Stetson University in DeLand is named for a maker of what?",
+  "o": [
+   "Boots",
+   "Hats",
+   "Saddles",
+   "Rifles"
+  ],
+  "a": 1,
+  "f": "Hat maker John B. Stetson backed the school, founded as DeLand Academy in 1883."
+ }
+]
